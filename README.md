@@ -1,6 +1,6 @@
 # 💫 About Me
 
-## Me chamo [**Rafael Augusto Barbosa de Carvalho**](https://www.linkedin.com/in/rafael-augusto-barbosa-de-carvalho-81ab5a212/), sou desenvolvedor front-end com mais de dois anos de experiência em desenvolvimento web com ênfase em Vue.js, Quasar framework.
+## Me chamo [**Rafael Augusto Barbosa de Carvalho**](https://www.linkedin.com/in/rafael-augusto-barbosa-de-carvalho-81ab5a212/), sou desenvolvedor front-end com mais de 3 anos de experiência em desenvolvimento web com ênfase em Vue.js, Quasar framework.
 
 ## 🌐 Socials
 
