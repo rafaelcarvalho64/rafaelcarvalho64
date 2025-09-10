@@ -1,6 +1,6 @@
 # 💫 Sobre mim
 
-## Olá, sou [**Rafael Augusto Barbosa de Carvalho**](https://www.linkedin.com/in/rafael-augusto-barbosa-de-carvalho-81ab5a212/),
+## Olá, sou [**Rafael Augusto Barbosa de Carvalho**](https://www.linkedin.com/in/rafael-carvalho-81ab5a212/),
 Como Desenvolvedor Front-end com 4 anos de experiência, entrego aplicações completas utilizando Javascript, React, Vue.js, C#, .NET e bancos de dados em geral. Desenvolvo soluções de ponta a ponta que unem interfaces responsivas, APIs escaláveis e infraestrutura cloud otimizada. Minha experiência inclui desde o desenvolvimento ágil de MVPs até projetos mais robustos para SaaS e sistemas corporativos, priorizando performance, usabilidade e baixo custo de manutenção. Minhas principais Habilidades Interpessoais são: Liderança, Comunicação, Trabalho em Equipe, Escuta Ativa, Aprendizado contínuo, Proatividade, Resolução de problemas, Inteligência Emocional.
 
 ## 🌐 Linkedin
