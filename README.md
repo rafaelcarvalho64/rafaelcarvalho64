@@ -6,6 +6,7 @@ Como Desenvolvedor Front-end com 4 anos de experiência, entrego aplicações co
 ## 🌐 Linkedin
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rafael-carvalho-81ab5a212/)
+[![LinkedIn](https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white)]([https://linkedin.com/in/rafael-carvalho-81ab5a212/](https://rafael-carvalho-dev-portfolio.vercel.app/))
 
 # 💻 Tech Stack
 
