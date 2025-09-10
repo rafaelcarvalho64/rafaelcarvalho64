@@ -1,7 +1,7 @@
 # 💫 About Me
 
-## My name is [**Rafael Augusto Barbosa de Carvalho**](https://www.linkedin.com/in/rafael-augusto-barbosa-de-carvalho-81ab5a212/), I have been working in the technology field for 4 years. 
-As a front-end software engineer at VoxData Technology, I’ve contributed to several key projects within the company’s CRM platform, delivering solutions across multiple sectors. My expertise in Vue.js, JavaScript, and Quasar allows me to develop new features, migrate systems, and address a wide range of customer needs. I hold a degree in Systems Analysis and Development from Instituto Federal do Pará – IFPA, graduated in 2025. I’m driven by curiosity and motivated by challenges, always eager to grow within the software industry. My strong communication skills also support effective teamwork and collaboration. Skills: Vue.js, JavaScript, Quasar;
+## Olá, sou [**Rafael Augusto Barbosa de Carvalho**](https://www.linkedin.com/in/rafael-augusto-barbosa-de-carvalho-81ab5a212/),
+Como Desenvolvedor Front-end com 4 anos de experiência, entrego aplicações completas utilizando Javascript, React, Vue.js, C#, .NET e bancos de dados em geral. Desenvolvo soluções de ponta a ponta que unem interfaces responsivas, APIs escaláveis e infraestrutura cloud otimizada. Minha experiência inclui desde o desenvolvimento ágil de MVPs até projetos mais robustos para SaaS e sistemas corporativos, priorizando performance, usabilidade e baixo custo de manutenção. Minhas principais Habilidades Interpessoais são: Liderança, Comunicação, Trabalho em Equipe, Escuta Ativa, Aprendizado contínuo, Proatividade, Resolução de problemas, Inteligência Emocional.
 
 ## 🌐 Socials
 
